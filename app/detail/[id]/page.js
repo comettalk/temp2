@@ -1,5 +1,5 @@
-import { connectDB } from "@/util/database";
-import { ObjectId } from "mongodb";
+import { connectDB } from '@/util/database';
+import { ObjectId } from 'mongodb';
 
 export default async function Detail(props) {
   
